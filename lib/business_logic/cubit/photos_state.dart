@@ -1,10 +1,4 @@
 part of 'photos_cubit.dart';
-/*
-@immutable
-abstract class PhotosState {}
-
-class PhotosInitial extends PhotosState {}
-*/
 
 class PhotosState {
   bool isLoading = false;
